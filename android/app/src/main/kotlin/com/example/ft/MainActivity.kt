@@ -1,4 +1,4 @@
-package com.camt.flutterFyi.ft
+package com.camt.flutterFyi
 
 import io.flutter.embedding.android.FlutterActivity
 
