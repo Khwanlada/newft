@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ft">
+    package="com.camt.flutterFyi.ft">
    <application
         android:label="ft"
         android:icon="@mipmap/ic_launcher">
